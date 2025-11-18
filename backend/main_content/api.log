@@ -1,0 +1,8 @@
+2025/11/18 15:32:14 - INFO - google_adk.google.adk.models.registry -  Updating LLM class for gemini-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025/11/18 15:32:14 - INFO - google_adk.google.adk.models.registry -  Updating LLM class for projects\/.+\/locations\/.+\/endpoints\/.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025/11/18 15:32:14 - INFO - google_adk.google.adk.models.registry -  Updating LLM class for projects\/.+\/locations\/.+\/publishers\/google\/models\/gemini.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025/11/18 15:32:14 - INFO - google_adk.google.adk.models.registry -  Updating LLM class for gemini-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025/11/18 15:32:14 - INFO - google_adk.google.adk.models.registry -  Updating LLM class for projects\/.+\/locations\/.+\/endpoints\/.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025/11/18 15:32:14 - INFO - google_adk.google.adk.models.registry -  Updating LLM class for projects\/.+\/locations\/.+\/publishers\/google\/models\/gemini.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025/11/18 15:32:21 - INFO - __main__ -  使用普通输出模式
+2025/11/18 15:32:21 - INFO - __main__ -  服务启动中，监听地址: http://localhost:10051

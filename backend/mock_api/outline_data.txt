@@ -1,0 +1,1370 @@
+data: {"type": "data", "data": {"type": "function_call", "id": "call_10894a0c-c5d4-444d-81fd-b87aa7e98853", "name": "DocumentSearch", "args": {"keyword": "移动学习环境 认知负荷 管理 元认知策略 应用 效果评估"}}, "author": "outline_agent"}
+
+data: {"type": "data", "data": {"type": "function_response", "id": "call_10894a0c-c5d4-444d-81fd-b87aa7e98853", "name": "DocumentSearch", "response": {"result": ["1. 标题：BNU-SLI系列学术活动——智慧学习环境中的认知负荷问题-智慧学习研究院（发布时间：2016-11-12 15:59:00）\n时间: 2016-11-12\n内容: 11月11日下午，研究院此次学术活动邀请了高级研究员高媛博士为我们分享了认知负荷的相关理论知识，带领同学们深入到科研设计的领地，探讨教育技术的应用策略，为同学们拓宽了认知负荷的理论视野。 高媛博士 高媛博士从人脑认知历程模型讲起，告诉我们外部信息是通过视、听觉等感官进入人的感觉记忆，提高个体注意力后可形成短暂的工作记忆…\n\n", "2. 标题：元认知策略  MBA智库百科\n时间: \n内容: 出自 MBA智库百科( https://wiki.mbalib.com/ ) 元认知策略(Meta-cognitive Strategies) 目录 编辑 ] 什么是元认知策略 所谓元认知策略是指控制信息的流程，监控和指导认知过程进行的策略。元认知策略是利用认知过程中获得的知识，通过确立学习目标与计划，监控学习过程和评…\n\n", "3. 标题：学生的学习发展—学习策略（第44期）\n时间: \n内容: (一)概述学习策略是指学习者在学习活动中，为了达到有效的学习目的而采用的规则、方法、技巧及其调控方式的综合。(二)分类根据迈克尔等人在1990年的分类，可将学习策略分为三种：认知策略、元认知策略和资源管理策略。1.认知策略(1)复述策略:利用无意识记和有意识记；排除抑制干扰；整体记忆与分段记忆；多种感官参与；画线、圈点…\n\n", "4. 标题：2011年小学教育心理学考试大纲讲解：学习策略（发布时间：2022-03-01 19:30:00）\n时间: 2022-03-01\n内容: 第八章 学习策略 第一节 典型的学习策略 学习策略是指学习者为了提高学习的效果和效率，有目的有意识地制定的有关学习过程的复杂的方案。 一般来说，学习策略可分为认知策略、元认知策略和资源管理策略三种。 一、认知策略 (一)复述策略 复述策略是在工作记忆中为了保持信息，运用内部语言在大脑中重现学习材料或刺激，以便将注意力维…\n\n", "5. 标题：基于多模态数据的在线学习认知负荷评估-现代教育技术2024年03期-手机知网\n时间: \n内容: 基于多模态数据的在线学习认知负荷评估 华东师范大学教育信息技术学系; 华东师范大学上海数字化教育装备工程技术研究中心 | 薛耀锋 王坤 邱奕盛 朱芳清 开通知网号 近年来，认知负荷过载成为影响在线学习效果的一个重要因素。为解决此问题，文章聚焦在线学习认知负荷评估，首先设计了基于多模态数据的在线学习认知负荷评估研究框架，…\n\n", "6. 标题：教师招聘常考考点之元认知的结构（发布时间：2021-02-25 21:33:19）\n时间: 2021-02-25\n内容: 一、知识解析 在教招考试中，每次提到“元认知”，我们总是会感到似曾相识，但又很陌生。今天我们就专门来学习下元认知的结构。这部分知识属于陈琦、刘儒德当代教育心理学一书中第四部分分类学习心理第十二章学习策略的内容。本部分知识主要是以客观题的形式考查，偏向于理解。 在学习的信息加工系统中，存在着一个对信息流动的执行控制过程，…\n\n", "7. 标题：如何理解学习策略\n时间: \n内容: 学习策略是指学习者为了提高学习的效果和效率，有目的，有意识地制订的有关学习过程的复杂方案，其包括认知策略，元认知策略，资源管理策略。那我们如何理解学习策略呢？$P$(I_M_G)1认知策略包括复述策略（重复，抄写，做记录，画线），精细加工策略（想象，口述，总结，做笔记，类比，质疑）组织策略（组块，选择重点，列提纲，画地…\n\n", "8. 标题：如何理解元认知策略\n时间: \n内容: 元认知是对自身认知的认知，元认知包括元认知知识、元认知体验和元认知监控三个方面，那么如何理解元认知策略呢？$P$(I_M_G)1元认知策略是学生对自己认知过程的认知策略，包括对自己认知过程的了解和控制策略$P$(I_M_G)2计划策略是根据认知活动的特定目标，在一项认知活动之前计划各种活动、预计结果、选择策略、想出各种…\n\n", "9. 标题：基于微信的大学英语移动学习效果探析\n时间: \n内容: 《西部素质教育》 作者本人免费下载 | 收藏 | 投稿 | 胡瑞娟 开通知网号 【摘要】：为了更好地提高教学效率,收获良好的教习效果,文章对微信中大学英语移动学习策略进行了研究,探讨微信如何从认知策略、元认知策略、资源管理等方面提升大学英语学习效果,并结合具体案例进行了详细分析。 下载全文 更多同类文献 个人查重>> …\n\n", "10. 标题：学习策略（发布时间：2024-03-20 03:31:20）\n时间: 2024-03-20\n内容: 一、学习策略的界定学习策略是指学习者为了提高学习的效果和效率，有目的、有意识订的有关学习过程的复杂的方案。二、学习策略的分类(一)认知策略是加工信息的一些方法和技术。1.复述策略\t2.精细加工策略\t3.组织策略\t(二)元认知策略是指控制信息的流程，监控和指导认知过程进行的策略。1.计划策略\t2.监控策略\t3.调节策略\t…\n\n"]}}, "author": "outline_agent"}
+
+data: {"type": "text", "text": "#", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 移", "author": "outline_agent"}
+
+data: {"type": "text", "text": "动", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "环境", "author": "outline_agent"}
+
+data: {"type": "text", "text": "下的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "管理", "author": "outline_agent"}
+
+data: {"type": "text", "text": "：", "author": "outline_agent"}
+
+data: {"type": "text", "text": "基于", "author": "outline_agent"}
+
+data: {"type": "text", "text": "元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的应用", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "效果", "author": "outline_agent"}
+
+data: {"type": "text", "text": "评估", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "##", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 摘", "author": "outline_agent"}
+
+data: {"type": "text", "text": "要", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "-", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 背", "author": "outline_agent"}
+
+data: {"type": "text", "text": "景", "author": "outline_agent"}
+
+data: {"type": "text", "text": "：", "author": "outline_agent"}
+
+data: {"type": "text", "text": "移动", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "环境中", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "过高", "author": "outline_agent"}
+
+data: {"type": "text", "text": "影响", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "效果", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "-", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 目", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "：", "author": "outline_agent"}
+
+data: {"type": "text", "text": "探讨", "author": "outline_agent"}
+
+data: {"type": "text", "text": "元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "在", "author": "outline_agent"}
+
+data: {"type": "text", "text": "管理", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "应用", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "效果", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "-", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 方法", "author": "outline_agent"}
+
+data: {"type": "text", "text": "（", "author": "outline_agent"}
+
+data: {"type": "text", "text": "可", "author": "outline_agent"}
+
+data: {"type": "text", "text": "选", "author": "outline_agent"}
+
+data: {"type": "text", "text": "）", "author": "outline_agent"}
+
+data: {"type": "text", "text": "：", "author": "outline_agent"}
+
+data: {"type": "text", "text": "系统", "author": "outline_agent"}
+
+data: {"type": "text", "text": "检索", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "文献", "author": "outline_agent"}
+
+data: {"type": "text", "text": "分析", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "-", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 主", "author": "outline_agent"}
+
+data: {"type": "text", "text": "要", "author": "outline_agent"}
+
+data: {"type": "text", "text": "发现", "author": "outline_agent"}
+
+data: {"type": "text", "text": "：", "author": "outline_agent"}
+
+data: {"type": "text", "text": "元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "显著", "author": "outline_agent"}
+
+data: {"type": "text", "text": "降低", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "，", "author": "outline_agent"}
+
+data: {"type": "text", "text": "提升", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "效率", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "-", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 结", "author": "outline_agent"}
+
+data: {"type": "text", "text": "论", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "展望", "author": "outline_agent"}
+
+data: {"type": "text", "text": "：", "author": "outline_agent"}
+
+data: {"type": "text", "text": "明确", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "应用", "author": "outline_agent"}
+
+data: {"type": "text", "text": "路径", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "标准化", "author": "outline_agent"}
+
+data: {"type": "text", "text": "挑战", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "-", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 关", "author": "outline_agent"}
+
+data: {"type": "text", "text": "键", "author": "outline_agent"}
+
+data: {"type": "text", "text": "词", "author": "outline_agent"}
+
+data: {"type": "text", "text": "：", "author": "outline_agent"}
+
+data: {"type": "text", "text": "移动", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "；", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "；", "author": "outline_agent"}
+
+data: {"type": "text", "text": "元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "；", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "效果", "author": "outline_agent"}
+
+data: {"type": "text", "text": "；", "author": "outline_agent"}
+
+data: {"type": "text", "text": "管理", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "##", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 引", "author": "outline_agent"}
+
+data: {"type": "text", "text": "言", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 移", "author": "outline_agent"}
+
+data: {"type": "text", "text": "动", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "环境", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "特性", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "挑战", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 认", "author": "outline_agent"}
+
+data: {"type": "text", "text": "知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "理论", "author": "outline_agent"}
+
+data: {"type": "text", "text": "概述", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "在", "author": "outline_agent"}
+
+data: {"type": "text", "text": "教育", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "作用", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "##", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 认", "author": "outline_agent"}
+
+data: {"type": "text", "text": "知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "理论", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "移动", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 认", "author": "outline_agent"}
+
+data: {"type": "text", "text": "知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "构成", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "分类", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 移", "author": "outline_agent"}
+
+data: {"type": "text", "text": "动", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "环境", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "影响", "author": "outline_agent"}
+
+data: {"type": "text", "text": "因素", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 认", "author": "outline_agent"}
+
+data: {"type": "text", "text": "知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "对", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "效果", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "量化", "author": "outline_agent"}
+
+data: {"type": "text", "text": "影响", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "##", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的应用", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "分类", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "定义", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "在", "author": "outline_agent"}
+
+data: {"type": "text", "text": "移动", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "应用", "author": "outline_agent"}
+
+data: {"type": "text", "text": "方法", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "课程", "author": "outline_agent"}
+
+data: {"type": "text", "text": "设计", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中", "author": "outline_agent"}
+
+data: {"type": "text", "text": "元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "整合", "author": "outline_agent"}
+
+data: {"type": "text", "text": "案例", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "##", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "4", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "对", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "管理", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "4", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "降低", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "机制", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "4", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "在", "author": "outline_agent"}
+
+data: {"type": "text", "text": "多", "author": "outline_agent"}
+
+data: {"type": "text", "text": "模", "author": "outline_agent"}
+
+data: {"type": "text", "text": "态", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "管理", "author": "outline_agent"}
+
+data: {"type": "text", "text": "效果", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "4", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "对", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "效率", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的影响", "author": "outline_agent"}
+
+data: {"type": "text", "text": "评估", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "##", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "5", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 移", "author": "outline_agent"}
+
+data: {"type": "text", "text": "动", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "评估", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "5", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 多", "author": "outline_agent"}
+
+data: {"type": "text", "text": "模", "author": "outline_agent"}
+
+data: {"type": "text", "text": "态", "author": "outline_agent"}
+
+data: {"type": "text", "text": "数据", "author": "outline_agent"}
+
+data: {"type": "text", "text": "评估", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "模型", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "5", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 认", "author": "outline_agent"}
+
+data: {"type": "text", "text": "知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "评估", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "量化", "author": "outline_agent"}
+
+data: {"type": "text", "text": "指标", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "方法", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "5", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 移", "author": "outline_agent"}
+
+data: {"type": "text", "text": "动", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "平台", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "监测", "author": "outline_agent"}
+
+data: {"type": "text", "text": "技术", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "##", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "6", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 学", "author": "outline_agent"}
+
+data: {"type": "text", "text": "习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "整合", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "6", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 认", "author": "outline_agent"}
+
+data: {"type": "text", "text": "知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "协同", "author": "outline_agent"}
+
+data: {"type": "text", "text": "作用", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "6", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 资", "author": "outline_agent"}
+
+data: {"type": "text", "text": "源", "author": "outline_agent"}
+
+data: {"type": "text", "text": "管理", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "整合", "author": "outline_agent"}
+
+data: {"type": "text", "text": "实践", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "6", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 学", "author": "outline_agent"}
+
+data: {"type": "text", "text": "习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "对", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "管理", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "综合", "author": "outline_agent"}
+
+data: {"type": "text", "text": "影响", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "##", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "7", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 教", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学", "author": "outline_agent"}
+
+data: {"type": "text", "text": "实践", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "应用", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "7", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 大", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学", "author": "outline_agent"}
+
+data: {"type": "text", "text": "英语", "author": "outline_agent"}
+
+data: {"type": "text", "text": "移动", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "案例", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "7", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "在", "author": "outline_agent"}
+
+data: {"type": "text", "text": "教学", "author": "outline_agent"}
+
+data: {"type": "text", "text": "设计", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "具体", "author": "outline_agent"}
+
+data: {"type": "text", "text": "应用", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "7", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 师", "author": "outline_agent"}
+
+data: {"type": "text", "text": "生", "author": "outline_agent"}
+
+data: {"type": "text", "text": "互动", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "监控", "author": "outline_agent"}
+
+data: {"type": "text", "text": "改进", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "##", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "8", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 学", "author": "outline_agent"}
+
+data: {"type": "text", "text": "习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的有效", "author": "outline_agent"}
+
+data: {"type": "text", "text": "性", "author": "outline_agent"}
+
+data: {"type": "text", "text": "评估", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "8", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "对", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "效果", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "提升", "author": "outline_agent"}
+
+data: {"type": "text", "text": "证据", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "8", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 实", "author": "outline_agent"}
+
+data: {"type": "text", "text": "施", "author": "outline_agent"}
+
+data: {"type": "text", "text": "元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "长期", "author": "outline_agent"}
+
+data: {"type": "text", "text": "效果", "author": "outline_agent"}
+
+data: {"type": "text", "text": "分析", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "8", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "在", "author": "outline_agent"}
+
+data: {"type": "text", "text": "不同", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "群体", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "差异", "author": "outline_agent"}
+
+data: {"type": "text", "text": "性", "author": "outline_agent"}
+
+data: {"type": "text", "text": "表现", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "##", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "9", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 移", "author": "outline_agent"}
+
+data: {"type": "text", "text": "动", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "平台", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的设计", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "优化", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "9", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "优化", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "路径", "author": "outline_agent"}
+
+data: {"type": "text", "text": "以", "author": "outline_agent"}
+
+data: {"type": "text", "text": "降低", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "9", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 认", "author": "outline_agent"}
+
+data: {"type": "text", "text": "知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "用户体验", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的设计", "author": "outline_agent"}
+
+data: {"type": "text", "text": "原则", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "9", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 移", "author": "outline_agent"}
+
+data: {"type": "text", "text": "动", "author": "outline_agent"}
+
+data: {"type": "text", "text": "学习", "author": "outline_agent"}
+
+data: {"type": "text", "text": "内容", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "结构", "author": "outline_agent"}
+
+data: {"type": "text", "text": "化", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "个性化", "author": "outline_agent"}
+
+data: {"type": "text", "text": "设计", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "##", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": "0", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 教", "author": "outline_agent"}
+
+data: {"type": "text", "text": "育", "author": "outline_agent"}
+
+data: {"type": "text", "text": "技术", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "科学", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "融合", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": "0", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 教", "author": "outline_agent"}
+
+data: {"type": "text", "text": "育", "author": "outline_agent"}
+
+data: {"type": "text", "text": "技术", "author": "outline_agent"}
+
+data: {"type": "text", "text": "对", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "管理", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的支持", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": "0", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "2", "author": "outline_agent"}
+
+data: {"type": "text", "text": " 元", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "策略", "author": "outline_agent"}
+
+data: {"type": "text", "text": "与", "author": "outline_agent"}
+
+data: {"type": "text", "text": "教育", "author": "outline_agent"}
+
+data: {"type": "text", "text": "技术", "author": "outline_agent"}
+
+data: {"type": "text", "text": "的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "结合", "author": "outline_agent"}
+
+data: {"type": "text", "text": "路径", "author": "outline_agent"}
+
+data: {"type": "text", "text": "\n", "author": "outline_agent"}
+
+data: {"type": "text", "text": "###", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "1", "author": "outline_agent"}
+
+data: {"type": "text", "text": "0", "author": "outline_agent"}
+
+data: {"type": "text", "text": ".", "author": "outline_agent"}
+
+data: {"type": "text", "text": "3", "author": "outline_agent"}
+
+data: {"type": "text", "text": " ", "author": "outline_agent"}
+
+data: {"type": "text", "text": "未来", "author": "outline_agent"}
+
+data: {"type": "text", "text": "教育", "author": "outline_agent"}
+
+data: {"type": "text", "text": "技术", "author": "outline_agent"}
+
+data: {"type": "text", "text": "在", "author": "outline_agent"}
+
+data: {"type": "text", "text": "认知", "author": "outline_agent"}
+
+data: {"type": "text", "text": "负荷", "author": "outline_agent"}
+
+data: {"type": "text", "text": "管理", "author": "outline_agent"}
+
+data: {"type": "text", "text": "中的", "author": "outline_agent"}
+
+data: {"type": "text", "text": "发展方向", "author": "outline_agent"}
+
+data: {"type": "artifact", "text": "# 移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估\n\n## 摘要\n- 背景：移动学习环境中认知负荷过高影响学习效果\n- 目的：探讨元认知策略在管理认知负荷中的应用与效果\n- 方法（可选）：系统检索与文献分析\n- 主要发现：元认知策略显著降低认知负荷，提升学习效率\n- 结论与展望：明确策略应用路径与标准化挑战\n- 关键词：移动学习；认知负荷；元认知策略；学习效果；管理\n\n## 1. 引言\n### 1.1 移动学习环境的特性与挑战\n### 1.2 认知负荷理论概述\n### 1.3 元认知策略在教育中的作用\n\n## 2. 认知负荷理论与移动学习\n### 2.1 认知负荷的构成与分类\n### 2.2 移动学习环境中的认知负荷影响因素\n### 2.3 认知负荷对学习效果的量化影响\n\n## 3. 元认知策略的应用\n### 3.1 元认知策略的分类与定义\n### 3.2 元认知策略在移动学习中的应用方法\n### 3.3 课程设计中元认知策略的整合案例\n\n## 4. 元认知策略对认知负荷的管理\n### 4.1 元认知策略降低认知负荷的机制\n### 4.2 元认知策略在多模态学习中的管理效果\n### 4.3 元认知策略对学习效率的影响评估\n\n## 5. 移动学习中的认知负荷评估\n### 5.1 多模态数据评估的认知负荷模型\n### 5.2 认知负荷评估的量化指标与方法\n### 5.3 移动学习平台中的认知负荷监测技术\n\n## 6. 学习策略与元认知策略的整合\n### 6.1 认知策略与元认知策略的协同作用\n### 6.2 资源管理策略与元认知策略的整合实践\n### 6.3 学习策略对认知负荷管理的综合影响\n\n## 7. 教学实践中的元认知策略应用\n### 7.1 大学英语移动学习中的元认知策略案例\n### 7.2 元认知策略在教学设计中的具体应用\n### 7.3 师生互动中的元认知监控改进\n\n## 8. 学习策略的有效性评估\n### 8.1 元认知策略对学习效果的提升证据\n### 8.2 实施元认知策略的长期效果分析\n### 8.3 元认知策略在不同学习群体中的差异性表现\n\n## 9. 移动学习平台的设计与优化\n### 9.1 优化学习路径以降低认知负荷\n### 9.2 认知负荷与用户体验的设计原则\n### 9.3 移动学习内容的结构化与个性化设计\n\n## 10. 教育技术与认知科学的融合\n### 10.1 教育技术对认知负荷管理的支持\n### 10.2 元认知策略与教育技术的结合路径\n### 10.3 未来教育技术在认知负荷管理中的发展方向", "author": "outline_agent"}
+
+data: {"type": "metadata", "metadata": {"author": "outline_agent", "references": {"76b9a6595e59e19b": {"idx_val": 1, "file_id": "76b9a6595e59e19b", "title": "BNU-SLI系列学术活动——智慧学习环境中的认知负荷问题-智慧学习研究院（发布时间：2016-11-12 15:59:00）", "publish_time": "2016-11-12", "snippet": "11月11日下午，研究院此次学术活动邀请了高级研究员高媛博士为我们分享了认知负荷的相关理论知识，带领同学们深入到科研设计的领地，探讨教育技术的应用策略，为同学们拓宽了认知负荷的理论视野。 高媛博士 高媛博士从人脑认知历程模型讲起，告诉我们外部信息是通过视、听觉等感官进入人的感觉记忆，提高个体注意力后可形成短暂的工作记忆…", "url": "https://sli.bnu.edu.cn/a/xinwenkuaibao/yanjiudongtai/20161117/217.html"}, "bd4e2f92ff9eb235": {"idx_val": 2, "file_id": "bd4e2f92ff9eb235", "title": "元认知策略  MBA智库百科", "publish_time": "", "snippet": "出自 MBA智库百科( https://wiki.mbalib.com/ ) 元认知策略(Meta-cognitive Strategies) 目录 编辑 ] 什么是元认知策略 所谓元认知策略是指控制信息的流程，监控和指导认知过程进行的策略。元认知策略是利用认知过程中获得的知识，通过确立学习目标与计划，监控学习过程和评…", "url": "https://wiki.mbalib.com/wiki/%25E5%2585%2583%25E8%25AE%25A4%25E7%259F%25A5%25E7%25AD%2596%25E7%2595%25A5?spm=0.0.0.0.fWuPTJ"}, "70d2640b8c5bd8f2": {"idx_val": 3, "file_id": "70d2640b8c5bd8f2", "title": "学生的学习发展—学习策略（第44期）", "publish_time": "", "snippet": "(一)概述学习策略是指学习者在学习活动中，为了达到有效的学习目的而采用的规则、方法、技巧及其调控方式的综合。(二)分类根据迈克尔等人在1990年的分类，可将学习策略分为三种：认知策略、元认知策略和资源管理策略。1.认知策略(1)复述策略:利用无意识记和有意识记；排除抑制干扰；整体记忆与分段记忆；多种感官参与；画线、圈点…", "url": "http://mp.weixin.qq.com/s?__biz=MzU3MjE5MTE5MA==&mid=2247537105&idx=2&sn=9d7123f4e03cd25c79127a342ef41de3"}, "df3dd74267bcce80": {"idx_val": 4, "file_id": "df3dd74267bcce80", "title": "2011年小学教育心理学考试大纲讲解：学习策略（发布时间：2022-03-01 19:30:00）", "publish_time": "2022-03-01", "snippet": "第八章 学习策略 第一节 典型的学习策略 学习策略是指学习者为了提高学习的效果和效率，有目的有意识地制定的有关学习过程的复杂的方案。 一般来说，学习策略可分为认知策略、元认知策略和资源管理策略三种。 一、认知策略 (一)复述策略 复述策略是在工作记忆中为了保持信息，运用内部语言在大脑中重现学习材料或刺激，以便将注意力维…", "url": "https://www.233.com/teacher/xinlixue/xiaoxue/20101213/091346506.html"}, "83c1a0974359bff0": {"idx_val": 5, "file_id": "83c1a0974359bff0", "title": "基于多模态数据的在线学习认知负荷评估-现代教育技术2024年03期-手机知网", "publish_time": "", "snippet": "基于多模态数据的在线学习认知负荷评估 华东师范大学教育信息技术学系; 华东师范大学上海数字化教育装备工程技术研究中心 | 薛耀锋 王坤 邱奕盛 朱芳清 开通知网号 近年来，认知负荷过载成为影响在线学习效果的一个重要因素。为解决此问题，文章聚焦在线学习认知负荷评估，首先设计了基于多模态数据的在线学习认知负荷评估研究框架，…", "url": "https://wap.cnki.net/touch/web/Journal/Article/XJJS202403008.html"}, "2b5a8125db726fb8": {"idx_val": 6, "file_id": "2b5a8125db726fb8", "title": "教师招聘常考考点之元认知的结构（发布时间：2021-02-25 21:33:19）", "publish_time": "2021-02-25", "snippet": "一、知识解析 在教招考试中，每次提到“元认知”，我们总是会感到似曾相识，但又很陌生。今天我们就专门来学习下元认知的结构。这部分知识属于陈琦、刘儒德当代教育心理学一书中第四部分分类学习心理第十二章学习策略的内容。本部分知识主要是以客观题的形式考查，偏向于理解。 在学习的信息加工系统中，存在着一个对信息流动的执行控制过程，…", "url": "http://m.offcn.com/jiaoshi/2021/0225/429140.html"}, "2e66ee7aef0279f6": {"idx_val": 7, "file_id": "2e66ee7aef0279f6", "title": "如何理解学习策略", "publish_time": "", "snippet": "学习策略是指学习者为了提高学习的效果和效率，有目的，有意识地制订的有关学习过程的复杂方案，其包括认知策略，元认知策略，资源管理策略。那我们如何理解学习策略呢？$P$(I_M_G)1认知策略包括复述策略（重复，抄写，做记录，画线），精细加工策略（想象，口述，总结，做笔记，类比，质疑）组织策略（组块，选择重点，列提纲，画地…", "url": "https://jingyan.baidu.com/album/93f9803fcfadd9a1e46f55bf.html"}, "ff9a3286b5530539": {"idx_val": 8, "file_id": "ff9a3286b5530539", "title": "如何理解元认知策略", "publish_time": "", "snippet": "元认知是对自身认知的认知，元认知包括元认知知识、元认知体验和元认知监控三个方面，那么如何理解元认知策略呢？$P$(I_M_G)1元认知策略是学生对自己认知过程的认知策略，包括对自己认知过程的了解和控制策略$P$(I_M_G)2计划策略是根据认知活动的特定目标，在一项认知活动之前计划各种活动、预计结果、选择策略、想出各种…", "url": "https://jingyan.baidu.com/album/ed15cb1b01a4355ae269813f.html"}, "34a375ea935252dc": {"idx_val": 9, "file_id": "34a375ea935252dc", "title": "基于微信的大学英语移动学习效果探析", "publish_time": "", "snippet": "《西部素质教育》 作者本人免费下载 | 收藏 | 投稿 | 胡瑞娟 开通知网号 【摘要】：为了更好地提高教学效率,收获良好的教习效果,文章对微信中大学英语移动学习策略进行了研究,探讨微信如何从认知策略、元认知策略、资源管理等方面提升大学英语学习效果,并结合具体案例进行了详细分析。 下载全文 更多同类文献 个人查重>> …", "url": "https://www.cnki.com.cn/Article/CJFDTOTAL-XBSJ201708133.htm"}, "71a105f5ff4d1db6": {"idx_val": 10, "file_id": "71a105f5ff4d1db6", "title": "学习策略（发布时间：2024-03-20 03:31:20）", "publish_time": "2024-03-20", "snippet": "一、学习策略的界定学习策略是指学习者为了提高学习的效果和效率，有目的、有意识订的有关学习过程的复杂的方案。二、学习策略的分类(一)认知策略是加工信息的一些方法和技术。1.复述策略\t2.精细加工策略\t3.组织策略\t(二)元认知策略是指控制信息的流程，监控和指导认知过程进行的策略。1.计划策略\t2.监控策略\t3.调节策略\t…", "url": "https://zhuanlan.zhihu.com/p/687764256"}}}, "author": "outline_agent"}
+
+data: {"type": "final", "text": "对话结束", "author": "system"}
+

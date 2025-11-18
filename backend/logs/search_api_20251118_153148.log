@@ -1,0 +1,609 @@
+=== search_api 服务启动日志 ===
+启动时间: 2025-11-18 15:31:58
+工作目录: D:\man\myvenv\WriterAgent-main\backend\search_api
+脚本文件: main.py
+端口: 10052
+==================================================
+
+INFO:     Started server process [18684]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:10052 (Press CTRL+C to quit)
+Ragflow客户端初始化成功
+  Base URL: http://192.168.1.13:8502
+  数据集数量: 1
+  API端点: http://192.168.1.13:8502/api/v1/retrieval
+[search_api] 尝试使用RAGflow进行本地检索: 移动学习环境 认知负荷 管理 元认知策略 应用 效果评估
+[ragflow_search_web] 开始搜索: 移动学习环境 认知负荷 管理 元认知策略 应用 效果评估
+[ragflow_search] 开始本地知识库检索: 移动学习环境 认知负荷 管理 元认知策略 应用 效果评估
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 移动学习环境 认知负荷 管理 元认知策略 应用 效果评估
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "移动学习环境 认知负荷 管理 元认知策略 应用 效果评估", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到10个相关片段
+来自10个文档
+返回10个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 10 个结果
+[ragflow_search_web] 搜索成功，返回 10 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '移动学习环境 认知负荷 管理 元认知策略 应用 效果评估', 'number': 10}ragflow_search_web, 写入文件:cache\d35667bd6675ed4e422d8f33563758b1_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:50314 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估
+[ragflow_search_web] 开始搜索: 移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估
+[ragflow_search] 开始本地知识库检索: 移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到10个相关片段
+来自10个文档
+返回10个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 10 个结果
+[ragflow_search_web] 搜索成功，返回 10 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估', 'number': 10}ragflow_search_web, 写入文件:cache\403204514dd4b4d13df9f0673108d258_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:62627 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 移动学习环境 认知负荷 元认知策略 教育应用
+[ragflow_search_web] 开始搜索: 移动学习环境 认知负荷 元认知策略 教育应用
+[ragflow_search] 开始本地知识库检索: 移动学习环境 认知负荷 元认知策略 教育应用
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 移动学习环境 认知负荷 元认知策略 教育应用
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "移动学习环境 认知负荷 元认知策略 教育应用", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到9个相关片段
+来自9个文档
+返回9个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 9 个结果
+[ragflow_search_web] 搜索成功，返回 9 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '移动学习环境 认知负荷 元认知策略 教育应用', 'number': 10}ragflow_search_web, 写入文件:cache\9d8baffefcf41246b6c8d33d48e96315_cache.pkl
+[search_api] RAGflow本地检索成功，找到 9 个结果
+INFO:     127.0.0.1:59937 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估
+函数ragflow_search_web被调用，缓存被命中，使用已缓存结果，对于参数(){'keyword': '移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估', 'number': 10}ragflow_search_web, 读取文件:cache\403204514dd4b4d13df9f0673108d258_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:54381 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估
+函数ragflow_search_web被调用，缓存被命中，使用已缓存结果，对于参数(){'keyword': '移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估', 'number': 10}ragflow_search_web, 读取文件:cache\403204514dd4b4d13df9f0673108d258_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:55282 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估
+函数ragflow_search_web被调用，缓存被命中，使用已缓存结果，对于参数(){'keyword': '移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估', 'number': 10}ragflow_search_web, 读取文件:cache\403204514dd4b4d13df9f0673108d258_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:51482 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 元认知策略的效果评估 移动学习环境 认知负荷管理
+[ragflow_search_web] 开始搜索: 元认知策略的效果评估 移动学习环境 认知负荷管理
+[ragflow_search] 开始本地知识库检索: 元认知策略的效果评估 移动学习环境 认知负荷管理
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 元认知策略的效果评估 移动学习环境 认知负荷管理
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "元认知策略的效果评估 移动学习环境 认知负荷管理", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到10个相关片段
+来自10个文档
+返回10个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 10 个结果
+[ragflow_search_web] 搜索成功，返回 10 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '元认知策略的效果评估 移动学习环境 认知负荷管理', 'number': 10}ragflow_search_web, 写入文件:cache\353bacf2f9b9631f916ccee695f0a209_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:61768 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估
+函数ragflow_search_web被调用，缓存被命中，使用已缓存结果，对于参数(){'keyword': '移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估', 'number': 10}ragflow_search_web, 读取文件:cache\403204514dd4b4d13df9f0673108d258_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:64549 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 学习者特征对策略选择的影响
+[ragflow_search_web] 开始搜索: 学习者特征对策略选择的影响
+[ragflow_search] 开始本地知识库检索: 学习者特征对策略选择的影响
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 学习者特征对策略选择的影响
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "学习者特征对策略选择的影响", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到10个相关片段
+来自10个文档
+返回10个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 10 个结果
+[ragflow_search_web] 搜索成功，返回 10 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '学习者特征对策略选择的影响', 'number': 10}ragflow_search_web, 写入文件:cache\2b26842485f26586d1758acd04e8942d_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:62154 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 环境因素对策略实施的制约
+[ragflow_search_web] 开始搜索: 环境因素对策略实施的制约
+[ragflow_search] 开始本地知识库检索: 环境因素对策略实施的制约
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 环境因素对策略实施的制约
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "环境因素对策略实施的制约", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到10个相关片段
+来自10个文档
+返回10个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 10 个结果
+[ragflow_search_web] 搜索成功，返回 10 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '环境因素对策略实施的制约', 'number': 10}ragflow_search_web, 写入文件:cache\2633eec87ecf4a0e12494d9d82c02d83_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:52492 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 基于AI的自适应学习系统
+[ragflow_search_web] 开始搜索: 基于AI的自适应学习系统
+[ragflow_search] 开始本地知识库检索: 基于AI的自适应学习系统
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 基于AI的自适应学习系统
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "基于AI的自适应学习系统", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到10个相关片段
+来自10个文档
+返回10个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 10 个结果
+[ragflow_search_web] 搜索成功，返回 10 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '基于AI的自适应学习系统', 'number': 10}ragflow_search_web, 写入文件:cache\b2d747be6a70f5b139101914d5b55cca_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:64193 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估
+函数ragflow_search_web被调用，缓存被命中，使用已缓存结果，对于参数(){'keyword': '移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估', 'number': 10}ragflow_search_web, 读取文件:cache\403204514dd4b4d13df9f0673108d258_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:58265 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 教师角色与培训需求 移动学习环境 认知负荷管理 元认知策略
+[ragflow_search_web] 开始搜索: 教师角色与培训需求 移动学习环境 认知负荷管理 元认知策略
+[ragflow_search] 开始本地知识库检索: 教师角色与培训需求 移动学习环境 认知负荷管理 元认知策略
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 教师角色与培训需求 移动学习环境 认知负荷管理 元认知策略
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "教师角色与培训需求 移动学习环境 认知负荷管理 元认知策略", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到10个相关片段
+来自10个文档
+返回10个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 10 个结果
+[ragflow_search_web] 搜索成功，返回 10 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '教师角色与培训需求 移动学习环境 认知负荷管理 元认知策略', 'number': 10}ragflow_search_web, 写入文件:cache\ea2633e5f24c9c4f35c345813b19c8ed_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:65453 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估
+函数ragflow_search_web被调用，缓存被命中，使用已缓存结果，对于参数(){'keyword': '移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估', 'number': 10}ragflow_search_web, 读取文件:cache\403204514dd4b4d13df9f0673108d258_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:65291 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估
+函数ragflow_search_web被调用，缓存被命中，使用已缓存结果，对于参数(){'keyword': '移动学习环境下的认知负荷管理：基于元认知策略的应用与效果评估', 'number': 10}ragflow_search_web, 读取文件:cache\403204514dd4b4d13df9f0673108d258_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:61966 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地 心理健康 机制 量化 规划策略
+[ragflow_search_web] 开始搜索: 城市绿地 心理健康 机制 量化 规划策略
+[ragflow_search] 开始本地知识库检索: 城市绿地 心理健康 机制 量化 规划策略
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 城市绿地 心理健康 机制 量化 规划策略
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "城市绿地 心理健康 机制 量化 规划策略", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到5个相关片段
+来自5个文档
+返回5个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 5 个结果
+[ragflow_search_web] 搜索成功，返回 5 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '城市绿地 心理健康 机制 量化 规划策略', 'number': 10}ragflow_search_web, 写入文件:cache\ad49484d0428b4acbe9d9a57cb94c055_cache.pkl
+[search_api] RAGflow本地检索成功，找到 5 个结果
+INFO:     127.0.0.1:59922 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地 心理健康 机制 量化 规划策略
+函数ragflow_search_web被调用，缓存被命中，使用已缓存结果，对于参数(){'keyword': '城市绿地 心理健康 机制 量化 规划策略', 'number': 10}ragflow_search_web, 读取文件:cache\ad49484d0428b4acbe9d9a57cb94c055_cache.pkl
+[search_api] RAGflow本地检索成功，找到 5 个结果
+INFO:     127.0.0.1:60388 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地 心理健康 机制 量化 规划策略
+函数ragflow_search_web被调用，缓存被命中，使用已缓存结果，对于参数(){'keyword': '城市绿地 心理健康 机制 量化 规划策略', 'number': 10}ragflow_search_web, 读取文件:cache\ad49484d0428b4acbe9d9a57cb94c055_cache.pkl
+[search_api] RAGflow本地检索成功，找到 5 个结果
+INFO:     127.0.0.1:49386 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地 心理健康 机制 量化 规划策略
+函数ragflow_search_web被调用，缓存被命中，使用已缓存结果，对于参数(){'keyword': '城市绿地 心理健康 机制 量化 规划策略', 'number': 10}ragflow_search_web, 读取文件:cache\ad49484d0428b4acbe9d9a57cb94c055_cache.pkl
+[search_api] RAGflow本地检索成功，找到 5 个结果
+INFO:     127.0.0.1:58498 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地 心理健康 机制 量化 规划策略
+函数ragflow_search_web被调用，缓存被命中，使用已缓存结果，对于参数(){'keyword': '城市绿地 心理健康 机制 量化 规划策略', 'number': 10}ragflow_search_web, 读取文件:cache\ad49484d0428b4acbe9d9a57cb94c055_cache.pkl
+[search_api] RAGflow本地检索成功，找到 5 个结果
+INFO:     127.0.0.1:50300 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地规划对心理健康的影响
+[ragflow_search_web] 开始搜索: 城市绿地规划对心理健康的影响
+[ragflow_search] 开始本地知识库检索: 城市绿地规划对心理健康的影响
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 城市绿地规划对心理健康的影响
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "城市绿地规划对心理健康的影响", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到3个相关片段
+来自3个文档
+返回3个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 3 个结果
+[ragflow_search_web] 搜索成功，返回 3 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '城市绿地规划对心理健康的影响', 'number': 10}ragflow_search_web, 写入文件:cache\03540cbf9e80f7283d8faaa3d9bb8f33_cache.pkl
+[search_api] RAGflow本地检索成功，找到 3 个结果
+INFO:     127.0.0.1:54563 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地规划的量化研究 绿地面积阈值 心理健康
+[ragflow_search_web] 开始搜索: 城市绿地规划的量化研究 绿地面积阈值 心理健康
+[ragflow_search] 开始本地知识库检索: 城市绿地规划的量化研究 绿地面积阈值 心理健康
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 城市绿地规划的量化研究 绿地面积阈值 心理健康
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "城市绿地规划的量化研究 绿地面积阈值 心理健康", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到4个相关片段
+来自4个文档
+返回4个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 4 个结果
+[ragflow_search_web] 搜索成功，返回 4 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '城市绿地规划的量化研究 绿地面积阈值 心理健康', 'number': 10}ragflow_search_web, 写入文件:cache\26b90bb300b9a8a00f056559021217a3_cache.pkl
+[search_api] RAGflow本地检索成功，找到 4 个结果
+INFO:     127.0.0.1:52684 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地规划的量化研究 绿地可达性距离 心理健康
+[ragflow_search_web] 开始搜索: 城市绿地规划的量化研究 绿地可达性距离 心理健康
+[ragflow_search] 开始本地知识库检索: 城市绿地规划的量化研究 绿地可达性距离 心理健康
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 城市绿地规划的量化研究 绿地可达性距离 心理健康
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "城市绿地规划的量化研究 绿地可达性距离 心理健康", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到3个相关片段
+来自3个文档
+返回3个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 3 个结果
+[ragflow_search_web] 搜索成功，返回 3 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '城市绿地规划的量化研究 绿地可达性距离 心理健康', 'number': 10}ragflow_search_web, 写入文件:cache\b8a57ff055aaee1f49853df7f3997ccb_cache.pkl
+[search_api] RAGflow本地检索成功，找到 3 个结果
+INFO:     127.0.0.1:64292 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地规划的量化研究 绿地使用时间 心理健康
+[ragflow_search_web] 开始搜索: 城市绿地规划的量化研究 绿地使用时间 心理健康
+[ragflow_search] 开始本地知识库检索: 城市绿地规划的量化研究 绿地使用时间 心理健康
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 城市绿地规划的量化研究 绿地使用时间 心理健康
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "城市绿地规划的量化研究 绿地使用时间 心理健康", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到8个相关片段
+来自8个文档
+返回8个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 8 个结果
+[ragflow_search_web] 搜索成功，返回 8 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '城市绿地规划的量化研究 绿地使用时间 心理健康', 'number': 10}ragflow_search_web, 写入文件:cache\4aa1aa4f997e94c3d905900ded245ded_cache.pkl
+[search_api] RAGflow本地检索成功，找到 8 个结果
+INFO:     127.0.0.1:54506 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地规划的量化研究 绿地类型 心理健康
+[ragflow_search_web] 开始搜索: 城市绿地规划的量化研究 绿地类型 心理健康
+[ragflow_search] 开始本地知识库检索: 城市绿地规划的量化研究 绿地类型 心理健康
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 城市绿地规划的量化研究 绿地类型 心理健康
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "城市绿地规划的量化研究 绿地类型 心理健康", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到3个相关片段
+来自3个文档
+返回3个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 3 个结果
+[ragflow_search_web] 搜索成功，返回 3 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '城市绿地规划的量化研究 绿地类型 心理健康', 'number': 10}ragflow_search_web, 写入文件:cache\96941dd5a3525b21008dac659511ed94_cache.pkl
+[search_api] RAGflow本地检索成功，找到 3 个结果
+INFO:     127.0.0.1:57360 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地 规划 环境 社会因素 心理健康
+[ragflow_search_web] 开始搜索: 城市绿地 规划 环境 社会因素 心理健康
+[ragflow_search] 开始本地知识库检索: 城市绿地 规划 环境 社会因素 心理健康
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 城市绿地 规划 环境 社会因素 心理健康
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "城市绿地 规划 环境 社会因素 心理健康", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到10个相关片段
+来自10个文档
+返回10个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 10 个结果
+[ragflow_search_web] 搜索成功，返回 10 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '城市绿地 规划 环境 社会因素 心理健康', 'number': 10}ragflow_search_web, 写入文件:cache\19575d8e8c8019935f9fbe15032c4a3f_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:51119 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地规划的政策与法规
+[ragflow_search_web] 开始搜索: 城市绿地规划的政策与法规
+[ragflow_search] 开始本地知识库检索: 城市绿地规划的政策与法规
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 城市绿地规划的政策与法规
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "城市绿地规划的政策与法规", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到10个相关片段
+来自10个文档
+返回10个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 10 个结果
+[ragflow_search_web] 搜索成功，返回 10 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '城市绿地规划的政策与法规', 'number': 10}ragflow_search_web, 写入文件:cache\58f938255ed15a7fbd135319be4f9ed3_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:56093 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 公众参与在绿地规划中的作用
+[ragflow_search_web] 开始搜索: 公众参与在绿地规划中的作用
+[ragflow_search] 开始本地知识库检索: 公众参与在绿地规划中的作用
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 公众参与在绿地规划中的作用
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "公众参与在绿地规划中的作用", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到9个相关片段
+来自9个文档
+返回9个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 9 个结果
+[ragflow_search_web] 搜索成功，返回 9 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '公众参与在绿地规划中的作用', 'number': 10}ragflow_search_web, 写入文件:cache\0f191898888f5c94e554f5828591a2fa_cache.pkl
+[search_api] RAGflow本地检索成功，找到 9 个结果
+INFO:     127.0.0.1:61392 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 特殊人群对绿地规划的特殊需求
+[ragflow_search_web] 开始搜索: 特殊人群对绿地规划的特殊需求
+[ragflow_search] 开始本地知识库检索: 特殊人群对绿地规划的特殊需求
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 特殊人群对绿地规划的特殊需求
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "特殊人群对绿地规划的特殊需求", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到7个相关片段
+来自7个文档
+返回7个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 7 个结果
+[ragflow_search_web] 搜索成功，返回 7 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '特殊人群对绿地规划的特殊需求', 'number': 10}ragflow_search_web, 写入文件:cache\546f35b56083186597df0151b5bb559f_cache.pkl
+[search_api] RAGflow本地检索成功，找到 7 个结果
+INFO:     127.0.0.1:60742 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 绿地规划中的伦理与公平性考量
+[ragflow_search_web] 开始搜索: 绿地规划中的伦理与公平性考量
+[ragflow_search] 开始本地知识库检索: 绿地规划中的伦理与公平性考量
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 绿地规划中的伦理与公平性考量
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "绿地规划中的伦理与公平性考量", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到4个相关片段
+来自4个文档
+返回4个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 4 个结果
+[ragflow_search_web] 搜索成功，返回 4 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '绿地规划中的伦理与公平性考量', 'number': 10}ragflow_search_web, 写入文件:cache\737aa03ebf67ae817a532baa2aa9eeb0_cache.pkl
+[search_api] RAGflow本地检索成功，找到 4 个结果
+INFO:     127.0.0.1:62553 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地规划 数据采集 分析方法
+[ragflow_search_web] 开始搜索: 城市绿地规划 数据采集 分析方法
+[ragflow_search] 开始本地知识库检索: 城市绿地规划 数据采集 分析方法
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 城市绿地规划 数据采集 分析方法
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "城市绿地规划 数据采集 分析方法", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到5个相关片段
+来自5个文档
+返回5个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 5 个结果
+[ragflow_search_web] 搜索成功，返回 5 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '城市绿地规划 数据采集 分析方法', 'number': 10}ragflow_search_web, 写入文件:cache\0ecd76ed4de4145ecff1be3e6aaeb63e_cache.pkl
+[search_api] RAGflow本地检索成功，找到 5 个结果
+INFO:     127.0.0.1:51351 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: GIS技术 城市绿地规划 应用
+[ragflow_search_web] 开始搜索: GIS技术 城市绿地规划 应用
+[ragflow_search] 开始本地知识库检索: GIS技术 城市绿地规划 应用
+
+=== 开始Ragflow搜索 ===
+搜索关键词: GIS技术 城市绿地规划 应用
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "GIS技术 城市绿地规划 应用", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到9个相关片段
+来自9个文档
+返回9个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 9 个结果
+[ragflow_search_web] 搜索成功，返回 9 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': 'GIS技术 城市绿地规划 应用', 'number': 10}ragflow_search_web, 写入文件:cache\e6bf45ff351badb48c78b3df7d11808d_cache.pkl
+[search_api] RAGflow本地检索成功，找到 9 个结果
+INFO:     127.0.0.1:57981 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 环境感知 城市绿地规划 智能监测技术
+[ragflow_search_web] 开始搜索: 环境感知 城市绿地规划 智能监测技术
+[ragflow_search] 开始本地知识库检索: 环境感知 城市绿地规划 智能监测技术
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 环境感知 城市绿地规划 智能监测技术
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "环境感知 城市绿地规划 智能监测技术", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到9个相关片段
+来自9个文档
+返回9个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 9 个结果
+[ragflow_search_web] 搜索成功，返回 9 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '环境感知 城市绿地规划 智能监测技术', 'number': 10}ragflow_search_web, 写入文件:cache\d5d85adce387b198aaa4c838f673c331_cache.pkl
+[search_api] RAGflow本地检索成功，找到 9 个结果
+INFO:     127.0.0.1:53429 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 绿地规划 模拟 预测模型
+[ragflow_search_web] 开始搜索: 绿地规划 模拟 预测模型
+[ragflow_search] 开始本地知识库检索: 绿地规划 模拟 预测模型
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 绿地规划 模拟 预测模型
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "绿地规划 模拟 预测模型", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到9个相关片段
+来自9个文档
+返回9个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 9 个结果
+[ragflow_search_web] 搜索成功，返回 9 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '绿地规划 模拟 预测模型', 'number': 10}ragflow_search_web, 写入文件:cache\1575dd3f5ac87428ecbfb94fe16c06db_cache.pkl
+[search_api] RAGflow本地检索成功，找到 9 个结果
+INFO:     127.0.0.1:64889 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地规划 绿地覆盖率 城市热岛效应
+[ragflow_search_web] 开始搜索: 城市绿地规划 绿地覆盖率 城市热岛效应
+[ragflow_search] 开始本地知识库检索: 城市绿地规划 绿地覆盖率 城市热岛效应
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 城市绿地规划 绿地覆盖率 城市热岛效应
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "城市绿地规划 绿地覆盖率 城市热岛效应", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到6个相关片段
+来自6个文档
+返回6个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 6 个结果
+[ragflow_search_web] 搜索成功，返回 6 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '城市绿地规划 绿地覆盖率 城市热岛效应', 'number': 10}ragflow_search_web, 写入文件:cache\a8c31e08f526ca012ea2fda53b25e0ce_cache.pkl
+[search_api] RAGflow本地检索成功，找到 6 个结果
+INFO:     127.0.0.1:57387 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地规划中的挑战与未来方向
+[ragflow_search_web] 开始搜索: 城市绿地规划中的挑战与未来方向
+[ragflow_search] 开始本地知识库检索: 城市绿地规划中的挑战与未来方向
+
+=== 开始Ragflow搜索 ===
+搜索关键词: 城市绿地规划中的挑战与未来方向
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "城市绿地规划中的挑战与未来方向", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到10个相关片段
+来自10个文档
+返回10个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 10 个结果
+[ragflow_search_web] 搜索成功，返回 10 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': '城市绿地规划中的挑战与未来方向', 'number': 10}ragflow_search_web, 写入文件:cache\ac045c34301aa14127f397d5d58d61a9_cache.pkl
+[search_api] RAGflow本地检索成功，找到 10 个结果
+INFO:     127.0.0.1:57499 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: 城市绿地 心理健康 机制 量化 规划策略
+函数ragflow_search_web被调用，缓存被命中，使用已缓存结果，对于参数(){'keyword': '城市绿地 心理健康 机制 量化 规划策略', 'number': 10}ragflow_search_web, 读取文件:cache\ad49484d0428b4acbe9d9a57cb94c055_cache.pkl
+[search_api] RAGflow本地检索成功，找到 5 个结果
+INFO:     127.0.0.1:64127 - "POST /api/search_keyword HTTP/1.1" 200 OK
+[search_api] 尝试使用RAGflow进行本地检索: Z世代 消费者行为 社交媒体 短视频 决策影响
+[ragflow_search_web] 开始搜索: Z世代 消费者行为 社交媒体 短视频 决策影响
+[ragflow_search] 开始本地知识库检索: Z世代 消费者行为 社交媒体 短视频 决策影响
+
+=== 开始Ragflow搜索 ===
+搜索关键词: Z世代 消费者行为 社交媒体 短视频 决策影响
+返回数量: 10
+数据集ID: ['d58ce6cabeb311f09a88fe29b7877c04']
+相似度阈值: 0.3
+发送请求到: http://192.168.1.13:8502/api/v1/retrieval
+请求参数: {"question": "Z世代 消费者行为 社交媒体 短视频 决策影响", "dataset_ids": ["d58ce6cabeb311f09a88fe29b7877c04"], "page": 1, "page_size": 10, "similarity_threshold": 0.3, "top_k": 100, "keyword": true, "highlight": false}
+响应状态码: 200
+API响应状态: 成功
+找到6个相关片段
+来自6个文档
+返回6个搜索结果
+[ragflow_search] 本地知识库检索成功，找到 6 个结果
+[ragflow_search_web] 搜索成功，返回 6 个结果
+函数ragflow_search_web被调用，缓存未命中，结果被缓存，对于参数(){'keyword': 'Z世代 消费者行为 社交媒体 短视频 决策影响', 'number': 10}ragflow_search_web, 写入文件:cache\1cf0868b490c60f90a7ee50489485e4d_cache.pkl
+[search_api] RAGflow本地检索成功，找到 6 个结果
+INFO:     127.0.0.1:55529 - "POST /api/search_keyword HTTP/1.1" 200 OK
