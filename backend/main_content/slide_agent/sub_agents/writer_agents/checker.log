@@ -13981,3 +13981,925 @@
 2025-11-18 15:48:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [26] -> [^26]
 2025-11-18 15:48:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [27] -> [^27]
 2025-11-18 15:48:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第10块检查完毕, 耗时: 0.018 秒, 总耗时: 0.097 秒
+2025-11-18 17:21:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 0 块
+2025-11-18 17:21:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第0块检查完毕, 耗时: 0.003 秒, 总耗时: 0.003 秒
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 1 块
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [12] -> [^12]
+2025-11-18 17:21:18 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第1块检查完毕, 耗时: 0.009 秒, 总耗时: 0.011 秒
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 2 块
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [12] -> [^12]
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [13] -> [^13]
+2025-11-18 17:21:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第2块检查完毕, 耗时: 0.005 秒, 总耗时: 0.017 秒
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 3 块
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-18 17:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第3块检查完毕, 耗时: 0.014 秒, 总耗时: 0.030 秒
+2025-11-18 17:22:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 4 块
+2025-11-18 17:22:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 17:22:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 17:22:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第4块检查完毕, 耗时: 0.004 秒, 总耗时: 0.034 秒
+2025-11-18 17:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 5 块
+2025-11-18 17:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 17:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 17:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第5块检查完毕, 耗时: 0.004 秒, 总耗时: 0.039 秒
+2025-11-18 17:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 6 块
+2025-11-18 17:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 17:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 17:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第6块检查完毕, 耗时: 0.009 秒, 总耗时: 0.048 秒
+2025-11-18 17:22:39 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 7 块
+2025-11-18 17:22:39 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 17:22:39 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 17:22:39 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 17:22:39 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 17:22:39 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 17:22:39 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 17:22:39 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 17:22:39 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 17:22:39 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 17:22:39 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 17:22:39 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-18 17:22:39 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第7块检查完毕, 耗时: 0.007 秒, 总耗时: 0.055 秒
+2025-11-18 17:22:50 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 8 块
+2025-11-18 17:22:50 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 17:22:50 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 17:22:50 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 17:22:50 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 17:22:50 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 17:22:50 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 17:22:50 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 17:22:50 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 17:22:50 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第8块检查完毕, 耗时: 0.007 秒, 总耗时: 0.062 秒
+2025-11-18 17:23:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 9 块
+2025-11-18 17:23:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第9块检查完毕, 耗时: 0.000 秒, 总耗时: 0.062 秒
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 9 块
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 17:23:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第9块检查完毕, 耗时: 0.015 秒, 总耗时: 0.078 秒
+2025-11-18 17:23:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 10 块
+2025-11-18 17:23:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 17:23:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 17:23:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 17:23:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 17:23:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 17:23:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 17:23:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 17:23:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 17:23:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 17:23:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 17:23:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第10块检查完毕, 耗时: 0.011 秒, 总耗时: 0.089 秒
+2025-11-18 18:02:43 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 0 块
+2025-11-18 18:02:43 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第0块检查完毕, 耗时: 0.004 秒, 总耗时: 0.004 秒
+2025-11-18 18:02:58 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 1 块
+2025-11-18 18:02:58 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:02:58 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:02:58 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:02:58 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:02:58 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:02:58 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:02:58 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:02:58 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:02:58 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 18:02:58 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 18:02:58 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-18 18:02:58 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第1块检查完毕, 耗时: 0.009 秒, 总耗时: 0.013 秒
+2025-11-18 18:03:19 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 2 块
+2025-11-18 18:03:19 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:03:19 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:03:19 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:03:19 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-18 18:03:19 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:03:19 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:03:19 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 18:03:19 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 18:03:19 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-18 18:03:19 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-18 18:03:19 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第2块检查完毕, 耗时: 0.004 秒, 总耗时: 0.017 秒
+2025-11-18 18:03:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 3 块
+2025-11-18 18:03:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:03:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:03:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:03:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:03:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:03:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:03:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:03:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:03:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 18:03:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 18:03:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第3块检查完毕, 耗时: 0.002 秒, 总耗时: 0.019 秒
+2025-11-18 18:03:44 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 4 块
+2025-11-18 18:03:44 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:03:44 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:03:44 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:03:44 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:03:44 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:03:44 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:03:44 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:03:44 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:03:44 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第4块检查完毕, 耗时: 0.002 秒, 总耗时: 0.021 秒
+2025-11-18 18:04:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 5 块
+2025-11-18 18:04:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:04:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:04:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:04:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:04:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:04:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:04:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:04:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 18:04:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第5块检查完毕, 耗时: 0.004 秒, 总耗时: 0.025 秒
+2025-11-18 18:04:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 6 块
+2025-11-18 18:04:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:04:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:04:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:04:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:04:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:04:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:04:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:04:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第6块检查完毕, 耗时: 0.009 秒, 总耗时: 0.034 秒
+2025-11-18 18:04:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 7 块
+2025-11-18 18:04:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:04:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:04:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:04:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:04:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:04:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:04:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:04:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:04:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 18:04:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 18:04:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-18 18:04:42 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第7块检查完毕, 耗时: 0.009 秒, 总耗时: 0.043 秒
+2025-11-18 18:04:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 8 块
+2025-11-18 18:04:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:04:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:04:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:04:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:04:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:04:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:04:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:04:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:04:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 18:04:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 18:04:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第8块检查完毕, 耗时: 0.014 秒, 总耗时: 0.057 秒
+2025-11-18 18:05:05 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 9 块
+2025-11-18 18:05:05 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:05:05 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:05:05 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:05:05 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:05:05 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:05:05 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:05:05 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:05:05 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:05:05 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第9块检查完毕, 耗时: 0.019 秒, 总耗时: 0.076 秒
+2025-11-18 18:05:29 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 10 块
+2025-11-18 18:05:29 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:05:29 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:05:29 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:05:29 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:05:29 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:05:29 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:05:29 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:05:29 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:05:29 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第10块检查完毕, 耗时: 0.015 秒, 总耗时: 0.091 秒
+2025-11-18 18:05:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 11 块
+2025-11-18 18:05:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第11块检查完毕, 耗时: 0.000 秒, 总耗时: 0.091 秒
+2025-11-18 18:05:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 11 块
+2025-11-18 18:05:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第11块检查完毕, 耗时: 0.000 秒, 总耗时: 0.091 秒
+2025-11-18 18:05:52 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 11 块
+2025-11-18 18:05:52 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第11块检查完毕, 耗时: 0.000 秒, 总耗时: 0.091 秒
+2025-11-18 18:05:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 11 块
+2025-11-18 18:05:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:05:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:05:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:05:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:05:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:05:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:05:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:05:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:05:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:05:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:05:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:05:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第11块检查完毕, 耗时: 0.011 秒, 总耗时: 0.102 秒
+2025-11-18 18:06:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 12 块
+2025-11-18 18:06:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:06:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:06:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:06:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:06:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:06:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:06:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:06:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:06:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 18:06:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 18:06:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-18 18:06:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第12块检查完毕, 耗时: 0.010 秒, 总耗时: 0.112 秒
+2025-11-18 18:06:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 13 块
+2025-11-18 18:06:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:06:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:06:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:06:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:06:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:06:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第13块检查完毕, 耗时: 0.012 秒, 总耗时: 0.124 秒
+2025-11-18 18:06:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 14 块
+2025-11-18 18:06:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:06:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:06:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:06:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:06:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:06:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:06:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:06:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:06:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:06:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 18:06:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第14块检查完毕, 耗时: 0.012 秒, 总耗时: 0.137 秒
+2025-11-18 18:07:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 15 块
+2025-11-18 18:07:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:07:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:07:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:07:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:07:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:07:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:07:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:07:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:07:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第15块检查完毕, 耗时: 0.014 秒, 总耗时: 0.151 秒
+2025-11-18 18:07:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 16 块
+2025-11-18 18:07:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第16块检查完毕, 耗时: 0.000 秒, 总耗时: 0.151 秒
+2025-11-18 18:08:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 16 块
+2025-11-18 18:08:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第16块检查完毕, 耗时: 0.000 秒, 总耗时: 0.151 秒
+2025-11-18 18:08:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 16 块
+2025-11-18 18:08:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第16块检查完毕, 耗时: 0.001 秒, 总耗时: 0.152 秒
+2025-11-18 18:08:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 16 块
+2025-11-18 18:08:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:08:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:08:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:08:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 18:08:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:08:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 18:08:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [12] -> [^12]
+2025-11-18 18:08:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:08:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [13] -> [^13]
+2025-11-18 18:08:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:08:55 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第16块检查完毕, 耗时: 0.012 秒, 总耗时: 0.164 秒
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 17 块
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-18 18:09:06 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第17块检查完毕, 耗时: 0.014 秒, 总耗时: 0.177 秒
+2025-11-18 18:09:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 18 块
+2025-11-18 18:09:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:09:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:09:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:09:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:09:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:09:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:09:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:09:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第18块检查完毕, 耗时: 0.016 秒, 总耗时: 0.193 秒
+2025-11-18 18:09:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 19 块
+2025-11-18 18:09:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:09:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:09:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:09:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:09:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:09:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:09:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:09:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:09:26 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第19块检查完毕, 耗时: 0.016 秒, 总耗时: 0.209 秒
+2025-11-18 18:09:43 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 20 块
+2025-11-18 18:09:43 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第20块检查完毕, 耗时: 0.001 秒, 总耗时: 0.210 秒
+2025-11-18 18:09:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 20 块
+2025-11-18 18:09:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第20块检查完毕, 耗时: 0.001 秒, 总耗时: 0.211 秒
+2025-11-18 18:10:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 20 块
+2025-11-18 18:10:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第20块检查完毕, 耗时: 0.002 秒, 总耗时: 0.213 秒
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 20 块
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [14] -> [^14]
+2025-11-18 18:10:33 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第20块检查完毕, 耗时: 0.015 秒, 总耗时: 0.228 秒
+2025-11-19 11:19:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 0 块
+2025-11-19 11:19:21 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第0块检查完毕, 耗时: 0.001 秒, 总耗时: 0.001 秒
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 1 块
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-19 11:19:41 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第1块检查完毕, 耗时: 0.005 秒, 总耗时: 0.006 秒
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 2 块
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [12] -> [^12]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [13] -> [^13]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [14] -> [^14]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [15] -> [^15]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [16] -> [^16]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [17] -> [^17]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [18] -> [^18]
+2025-11-19 11:19:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第2块检查完毕, 耗时: 0.005 秒, 总耗时: 0.011 秒
+2025-11-19 11:20:14 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 3 块
+2025-11-19 11:20:14 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:20:14 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:20:14 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第3块检查完毕, 耗时: 0.002 秒, 总耗时: 0.013 秒
+2025-11-19 11:20:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 4 块
+2025-11-19 11:20:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:20:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:20:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:20:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:20:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:20:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:20:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:20:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:20:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:20:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:20:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:20:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第4块检查完毕, 耗时: 0.004 秒, 总耗时: 0.017 秒
+2025-11-19 11:20:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 5 块
+2025-11-19 11:20:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:20:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:20:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:20:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:20:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:20:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:20:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:20:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:20:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:20:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:20:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:20:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第5块检查完毕, 耗时: 0.003 秒, 总耗时: 0.020 秒
+2025-11-19 11:21:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 6 块
+2025-11-19 11:21:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:21:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:21:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第6块检查完毕, 耗时: 0.004 秒, 总耗时: 0.024 秒
+2025-11-19 11:21:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 7 块
+2025-11-19 11:21:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:21:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:21:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:21:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:21:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:21:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:21:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:21:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:21:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:21:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:21:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第7块检查完毕, 耗时: 0.004 秒, 总耗时: 0.028 秒
+2025-11-19 11:21:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 8 块
+2025-11-19 11:21:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:21:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:21:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:21:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:21:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:21:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:21:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:21:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:21:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:21:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:21:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:21:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第8块检查完毕, 耗时: 0.005 秒, 总耗时: 0.033 秒
+2025-11-19 11:21:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 9 块
+2025-11-19 11:21:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:21:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:21:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:21:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:21:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:21:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:21:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:21:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:21:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:21:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:21:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:21:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第9块检查完毕, 耗时: 0.006 秒, 总耗时: 0.039 秒
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 10 块
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:21:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第10块检查完毕, 耗时: 0.004 秒, 总耗时: 0.043 秒
+2025-11-19 11:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 11 块
+2025-11-19 11:21:53 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第11块检查完毕, 耗时: 0.000 秒, 总耗时: 0.043 秒
+2025-11-19 11:22:00 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 11 块
+2025-11-19 11:22:00 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第11块检查完毕, 耗时: 0.000 秒, 总耗时: 0.043 秒
+2025-11-19 11:22:08 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 11 块
+2025-11-19 11:22:08 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第11块检查完毕, 耗时: 0.000 秒, 总耗时: 0.043 秒
+2025-11-19 11:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 11 块
+2025-11-19 11:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:22:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第11块检查完毕, 耗时: 0.005 秒, 总耗时: 0.048 秒
+2025-11-19 11:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 12 块
+2025-11-19 11:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:22:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第12块检查完毕, 耗时: 0.008 秒, 总耗时: 0.056 秒
+2025-11-19 11:22:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 13 块
+2025-11-19 11:22:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:22:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:22:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:22:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:22:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:22:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:22:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:22:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:22:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:22:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:22:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:22:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第13块检查完毕, 耗时: 0.007 秒, 总耗时: 0.063 秒
+2025-11-19 11:22:49 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 14 块
+2025-11-19 11:22:49 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第14块检查完毕, 耗时: 0.000 秒, 总耗时: 0.063 秒
+2025-11-19 11:23:01 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 14 块
+2025-11-19 11:23:01 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第14块检查完毕, 耗时: 0.001 秒, 总耗时: 0.064 秒
+2025-11-19 11:23:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 14 块
+2025-11-19 11:23:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第14块检查完毕, 耗时: 0.000 秒, 总耗时: 0.064 秒
+2025-11-19 11:23:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 14 块
+2025-11-19 11:23:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:23:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:23:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:23:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:23:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:23:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:23:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:23:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:23:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:23:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:23:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第14块检查完毕, 耗时: 0.007 秒, 总耗时: 0.071 秒
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 15 块
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:23:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第15块检查完毕, 耗时: 0.009 秒, 总耗时: 0.079 秒
+2025-11-19 11:24:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 16 块
+2025-11-19 11:24:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:24:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:24:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:24:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:24:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:24:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:24:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:24:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:24:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:24:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:24:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:24:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第16块检查完毕, 耗时: 0.006 秒, 总耗时: 0.085 秒
+2025-11-19 11:24:12 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 17 块
+2025-11-19 11:24:12 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:24:12 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:24:12 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:24:12 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:24:12 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:24:12 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:24:12 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:24:12 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:24:12 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:24:12 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第17块检查完毕, 耗时: 0.010 秒, 总耗时: 0.095 秒
+2025-11-19 11:24:16 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 18 块
+2025-11-19 11:24:16 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:24:16 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:24:16 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:24:16 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:24:16 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:24:16 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:24:16 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:24:16 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:24:16 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:24:16 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:24:16 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:24:16 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第18块检查完毕, 耗时: 0.009 秒, 总耗时: 0.104 秒
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 19 块
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [12] -> [^12]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [13] -> [^13]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [14] -> [^14]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [15] -> [^15]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [16] -> [^16]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [17] -> [^17]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [18] -> [^18]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [19] -> [^19]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [20] -> [^20]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [21] -> [^21]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [22] -> [^22]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [23] -> [^23]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [24] -> [^24]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [25] -> [^25]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [26] -> [^26]
+2025-11-19 11:24:31 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第19块检查完毕, 耗时: 0.007 秒, 总耗时: 0.111 秒
+2025-11-19 11:24:38 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 20 块
+2025-11-19 11:24:38 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:24:38 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:24:38 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:24:38 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:24:38 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:24:38 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:24:38 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:24:38 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第20块检查完毕, 耗时: 0.006 秒, 总耗时: 0.117 秒
+2025-11-19 11:49:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 0 块
+2025-11-19 11:49:15 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第0块检查完毕, 耗时: 0.001 秒, 总耗时: 0.001 秒
+2025-11-19 11:49:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 1 块
+2025-11-19 11:49:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:49:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:49:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:49:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:49:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:49:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:49:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:49:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第1块检查完毕, 耗时: 0.004 秒, 总耗时: 0.005 秒
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 2 块
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:49:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第2块检查完毕, 耗时: 0.003 秒, 总耗时: 0.008 秒
+2025-11-19 11:50:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 3 块
+2025-11-19 11:50:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:50:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:50:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:50:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:50:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:50:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:50:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:50:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:50:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:50:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:50:02 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第3块检查完毕, 耗时: 0.003 秒, 总耗时: 0.011 秒
+2025-11-19 11:50:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 4 块
+2025-11-19 11:50:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:50:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:50:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:50:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:50:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:50:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:50:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:50:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:50:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:50:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:50:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:50:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第4块检查完毕, 耗时: 0.003 秒, 总耗时: 0.014 秒
+2025-11-19 11:50:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 5 块
+2025-11-19 11:50:25 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第5块检查完毕, 耗时: 0.000 秒, 总耗时: 0.014 秒
+2025-11-19 11:50:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 5 块
+2025-11-19 11:50:35 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第5块检查完毕, 耗时: 0.000 秒, 总耗时: 0.014 秒
+2025-11-19 11:50:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 5 块
+2025-11-19 11:50:45 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第5块检查完毕, 耗时: 0.000 秒, 总耗时: 0.014 秒
+2025-11-19 11:50:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 5 块
+2025-11-19 11:50:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:50:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:50:56 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第5块检查完毕, 耗时: 0.002 秒, 总耗时: 0.017 秒
+2025-11-19 11:51:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 6 块
+2025-11-19 11:51:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:51:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:51:09 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第6块检查完毕, 耗时: 0.007 秒, 总耗时: 0.023 秒
+2025-11-19 11:51:22 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 7 块
+2025-11-19 11:51:22 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:51:22 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:51:22 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第7块检查完毕, 耗时: 0.005 秒, 总耗时: 0.028 秒
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 8 块
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 1
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 在文本中找到 2 个表格标题标记
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换表格标题标记 '表X 不同治疗策略在DFU治疗中的作用机制对比  ' -> '表2 不同治疗策略在DFU治疗中的作用机制对比  ' (位置: 1101-1127)
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换表格标题标记 '表X 不同治疗策略在DFU治疗中的作用机制对比  ' -> '表1 不同治疗策略在DFU治疗中的作用机制对比  ' (位置: 1074-1101)
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 更新后表格编号: 3
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [12] -> [^12]
+2025-11-19 11:51:40 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第8块检查完毕, 耗时: 0.004 秒, 总耗时: 0.032 秒
+2025-11-19 11:51:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 9 块
+2025-11-19 11:51:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:51:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:51:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:51:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:51:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:51:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:51:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:51:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:51:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:51:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:51:51 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第9块检查完毕, 耗时: 0.004 秒, 总耗时: 0.037 秒
+2025-11-19 11:52:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 10 块
+2025-11-19 11:52:37 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第10块检查完毕, 耗时: 0.000 秒, 总耗时: 0.037 秒
+2025-11-19 11:52:50 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 10 块
+2025-11-19 11:52:50 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第10块检查完毕, 耗时: 0.000 秒, 总耗时: 0.037 秒
+2025-11-19 11:53:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 10 块
+2025-11-19 11:53:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第10块检查完毕, 耗时: 0.000 秒, 总耗时: 0.037 秒
+2025-11-19 11:53:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 10 块
+2025-11-19 11:53:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:53:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:53:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:53:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:53:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:53:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:53:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:53:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:53:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:53:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:53:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:53:17 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第10块检查完毕, 耗时: 0.005 秒, 总耗时: 0.042 秒
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 11 块
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [12] -> [^12]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [13] -> [^13]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [14] -> [^14]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [15] -> [^15]
+2025-11-19 11:53:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第11块检查完毕, 耗时: 0.005 秒, 总耗时: 0.047 秒
+2025-11-19 11:53:54 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 12 块
+2025-11-19 11:53:54 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第12块检查完毕, 耗时: 0.001 秒, 总耗时: 0.048 秒
+2025-11-19 11:54:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 12 块
+2025-11-19 11:54:03 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第12块检查完毕, 耗时: 0.000 秒, 总耗时: 0.048 秒
+2025-11-19 11:54:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 12 块
+2025-11-19 11:54:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第12块检查完毕, 耗时: 0.001 秒, 总耗时: 0.049 秒
+2025-11-19 11:54:20 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 12 块
+2025-11-19 11:54:20 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:54:20 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:54:20 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:54:20 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:54:20 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:54:20 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:54:20 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:54:20 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:54:20 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:54:20 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:54:20 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:54:20 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第12块检查完毕, 耗时: 0.005 秒, 总耗时: 0.054 秒
+2025-11-19 11:54:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 13 块
+2025-11-19 11:54:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:54:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:54:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:54:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:54:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:54:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:54:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第13块检查完毕, 耗时: 0.005 秒, 总耗时: 0.059 秒
+2025-11-19 11:54:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 14 块
+2025-11-19 11:54:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:54:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:54:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:54:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:54:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:54:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [16] -> [^16]
+2025-11-19 11:54:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:54:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:54:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:54:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:54:59 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第14块检查完毕, 耗时: 0.005 秒, 总耗时: 0.064 秒
+2025-11-19 11:55:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 15 块
+2025-11-19 11:55:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:55:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:55:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:55:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:55:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:55:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:55:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:55:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:55:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:55:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:55:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:55:10 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第15块检查完毕, 耗时: 0.010 秒, 总耗时: 0.074 秒
+2025-11-19 11:55:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 16 块
+2025-11-19 11:55:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:55:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:55:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:55:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:55:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:55:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:55:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:55:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:55:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:55:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:55:23 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第16块检查完毕, 耗时: 0.008 秒, 总耗时: 0.082 秒
+2025-11-19 11:55:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 17 块
+2025-11-19 11:55:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:55:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:55:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:55:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:55:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:55:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:55:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:55:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:55:34 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第17块检查完毕, 耗时: 0.006 秒, 总耗时: 0.088 秒
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 18 块
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-19 11:55:46 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第18块检查完毕, 耗时: 0.008 秒, 总耗时: 0.096 秒
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 19 块
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [12] -> [^12]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [13] -> [^13]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [14] -> [^14]
+2025-11-19 11:56:04 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第19块检查完毕, 耗时: 0.007 秒, 总耗时: 0.102 秒
+2025-11-19 11:56:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 20 块
+2025-11-19 11:56:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:56:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:56:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:56:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:56:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:56:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:56:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:56:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:56:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:56:13 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第20块检查完毕, 耗时: 0.006 秒, 总耗时: 0.108 秒
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 21 块
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [6] -> [^6]
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [7] -> [^7]
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [8] -> [^8]
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [9] -> [^9]
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [10] -> [^10]
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [11] -> [^11]
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [12] -> [^12]
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [13] -> [^13]
+2025-11-19 11:56:27 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第21块检查完毕, 耗时: 0.013 秒, 总耗时: 0.121 秒
+2025-11-19 11:56:38 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 22 块
+2025-11-19 11:56:38 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第22块检查完毕, 耗时: 0.001 秒, 总耗时: 0.122 秒
+2025-11-19 11:56:49 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 22 块
+2025-11-19 11:56:49 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第22块检查完毕, 耗时: 0.000 秒, 总耗时: 0.122 秒
+2025-11-19 11:57:00 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 22 块
+2025-11-19 11:57:00 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第22块检查完毕, 耗时: 0.000 秒, 总耗时: 0.122 秒
+2025-11-19 11:57:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>8. FastCheckerAgent 开始检查第 22 块
+2025-11-19 11:57:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 当前表格编号: 3
+2025-11-19 11:57:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 未找到表格标题标记
+2025-11-19 11:57:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [1] -> [^1]
+2025-11-19 11:57:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [2] -> [^2]
+2025-11-19 11:57:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [3] -> [^3]
+2025-11-19 11:57:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [4] -> [^4]
+2025-11-19 11:57:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - 替换引用标注 [5] -> [^5]
+2025-11-19 11:57:11 - slide_agent.sub_agents.writer_agents.fast_checker_agent - INFO - =====>>>11. FastCheckerAgent 第22块检查完毕, 耗时: 0.007 秒, 总耗时: 0.129 秒
