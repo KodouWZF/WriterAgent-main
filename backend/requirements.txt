@@ -13,3 +13,4 @@ click
 BeautifulSoup4
 lxml
 zai-sdk
+requests
