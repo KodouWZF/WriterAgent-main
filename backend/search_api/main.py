@@ -340,4 +340,25 @@ async def api_search_keyword(req: KeywordSearchRequest):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="127.0.0.1", port=10052)
+    import argparse
+    
+    parser = argparse.ArgumentParser(description="Run the search API with optional concurrency settings")
+    parser.add_argument("--host", type=str, default="127.0.0.1", help="Host to bind the server to")
+    parser.add_argument("--port", type=int, default=10052, help="Port to bind the server to")
+    parser.add_argument("--workers", type=int, default=1, help="Number of worker processes")
+    parser.add_argument("--reload", action="store_true", help="Enable auto-reload on code changes")
+    
+    args = parser.parse_args()
+    
+    print(f"启动 Search API 服务，监听地址: http://{args.host}:{args.port}")
+    if args.workers > 1:
+        print("注意：Search API 服务由于使用内存缓存，不适合多进程部署，将使用单进程模式")
+        print(f"指定的工作进程数: {args.workers}（将被忽略）")
+    
+    # search_api服务由于使用内存缓存，不适合多进程部署，因此忽略workers参数
+    uvicorn.run(
+        app,
+        host=args.host,
+        port=args.port,
+        reload=args.reload
+    )

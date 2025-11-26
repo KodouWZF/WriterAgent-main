@@ -83,6 +83,6 @@ def create_model(model:str, provider: str):
         if not model.startswith("openai/"):
             # 表示兼容openai的模型请求
             model = "openai/" + model
-        return LiteLlm(model=model, api_key=os.environ.get("ALI_API_KEY"), api_base="http://192.168.1.13:9997/v1")
+        return LiteLlm(model=model, api_key=os.environ.get("ALI_API_KEY"), api_base="http://113.200.109.140:1234/v1")
     else:
         raise ValueError(f"Unsupported provider: {provider}")

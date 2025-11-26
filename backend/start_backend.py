@@ -22,39 +22,36 @@ class BackendStarter:
         self.logs_dir = self.base_dir / 'logs'
         self.services = {
             'main_api': {
-                'port': 6800,
-                'dir': self.base_dir / 'main_api',
-                'script': 'main.py',
-                'env_file': '.env',
-                'env_template': 'env_template'
-            },
-            'main_api': {
                 'port': 7800,
                 'dir': self.base_dir / 'main_api',
                 'script': 'main.py',
                 'env_file': '.env',
-                'env_template': 'env_template'
+                'env_template': 'env_template',
+                'workers': 4  # 主API服务设置4个工作进程
             },
             'search_api': {
                 'port': 10052,
                 'dir': self.base_dir / 'search_api',
                 'script': 'main.py',
                 'env_file': '.env',
-                'env_template': 'env_template'
+                'env_template': 'env_template',
+                'workers': 1  # 搜索服务使用单进程（因为使用内存缓存）
             },
             'main_outline': {
                 'port': 10050,
                 'dir': self.base_dir / 'main_outline',
                 'script': 'main_api.py',
                 'env_file': '.env',
-                'env_template': 'env_template'
+                'env_template': 'env_template',
+                'workers': 4  # 大纲服务设置4个工作进程
             },
             'main_content': {
                 'port': 10051,
                 'dir': self.base_dir / 'main_content',
                 'script': 'main_api.py',
                 'env_file': '.env',
-                'env_template': 'env_template'
+                'env_template': 'env_template',
+                'workers': 4  # 内容服务设置4个工作进程
             },
         }
         self.processes: Dict[str, subprocess.Popen] = {}
@@ -277,10 +274,13 @@ class BackendStarter:
         service_dir = config['dir']
         script = config['script']
         port = config['port']
+        workers = config.get('workers', 1)  # 获取workers参数，默认为1
         log_file = self.log_files[service_name]
         
         print(f"🚀 启动服务: {service_name} (端口: {port})")
         print(f"📝 日志文件: {log_file}")
+        if workers > 1:
+            print(f"🔧 工作进程数: {workers}")
         
         try:
             # 切换到服务目录
@@ -294,6 +294,8 @@ class BackendStarter:
                 log_f.write(f"工作目录: {service_dir}\n")
                 log_f.write(f"脚本文件: {script}\n")
                 log_f.write(f"端口: {port}\n")
+                if workers > 1:
+                    log_f.write(f"工作进程数: {workers}\n")
                 log_f.write("=" * 50 + "\n\n")
                 log_f.flush()
                 
@@ -303,8 +305,19 @@ class BackendStarter:
                 if env_file_path.exists():
                     env.update(dotenv_values(str(env_file_path)))
                 
+                # 构建命令行参数
+                # 使用 uvicorn 启动，并传入 host, port 和 workers
+                cmd = [
+                    sys.executable, "-m", "uvicorn", 
+                    script.replace('.py', ':app'),  # 假设应用实例名为 'app'
+                    "--host", "127.0.0.1",
+                    "--port", str(port)
+                ]
+                if workers > 1:
+                    cmd.extend(["--workers", str(workers)])
+                
                 process = subprocess.Popen(
-                    [sys.executable, script],
+                    cmd,
                     stdout=log_f,
                     stderr=subprocess.STDOUT,
                     text=True,
@@ -354,6 +367,8 @@ class BackendStarter:
             if service_name in self.processes:
                 print(f"  ✅ {service_name}: http://127.0.0.1:{config['port']}")
                 print(f"     📝 日志: {self.log_files[service_name]}")
+                if config.get('workers', 1) > 1:
+                    print(f"     🔧 工作进程数: {config['workers']}")
         print()
         print("💡 提示:")
         print("  - 按 Ctrl+C 停止所有服务")

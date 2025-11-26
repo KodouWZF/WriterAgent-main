@@ -10,7 +10,7 @@
 CONTENT_WRITER_AGENT_CONFIG = {
     # "provider": "openai",
     "provider": "local_openai",
-    "model": "qwen3",
+    "model": "qwen3-32b",
     # "provider": "google",
     # "model": "gemini-2.0-flash",
     # "provider": "claude",
@@ -24,7 +24,7 @@ CONTENT_WRITER_AGENT_CONFIG = {
 CHECKER_AGENT_CONFIG = {
     # "provider": "openai",
     "provider": "local_openai",
-    "model": "qwen3",
+    "model": "qwen3-32b",
     # "provider": "google",
     # "model": "gemini-2.0-flash",
     # "provider": "claude",

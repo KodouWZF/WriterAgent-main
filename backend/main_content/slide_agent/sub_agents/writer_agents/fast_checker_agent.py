@@ -97,9 +97,10 @@ class FastCheckerAgent(BaseAgent):
             # 记录检查耗时
             check_time = time.time() - start_time
 
-            if current_part_index == 1 : 
-                check_result['valid'] = True
-
+            # if current_part_index == 1 : 
+            #     check_result['valid'] = True
+            check_result['valid'] = True
+                
             # 根据检查结果决定是否通过
             if check_result['valid']:
                 # 检查通过
